@@ -23,4 +23,6 @@ cta_note:
     </span>
 ---
 
-Atomic Essays as Code
+# Atomic Essays as Code
+
+Self-contained programming recipes
