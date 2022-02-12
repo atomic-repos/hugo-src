@@ -25,4 +25,4 @@ design:
 
 ## Atomic Essays as Code
 
-Self-contained programming recipes
+Self-Contained Programming Recipes
