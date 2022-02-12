@@ -15,6 +15,6 @@ feature:
     description: A Kotlin Recipe
   - icon: git-alt
     icon_pack: fab
-    name: Personal Notebook
+    name: Coming soon!
     description: A Python Recipe
 ---
