@@ -2,6 +2,7 @@
 widget: featurette
 headless: true
 weight: 20
+active: false
 title: "Featured Repositories:"
 subtitle: What do you want to cook today? 🧑🏽‍🍳 
 feature:
