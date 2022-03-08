@@ -2,10 +2,19 @@
 # Guide: https://wowchemy.com/docs/getting-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
-
 title: 'Atomic Repos' # Website name
 baseurl: 'https://atomicrepos.dev' # Website URL
-copyright: '© {year} Matt Stine' # Footer text, e.g. '© {year} Me'
+
+############################
+## PAGE OPTIONS
+############################
+
+cascade:
+  # Docs folder options
+  - _target:
+      path: /docs/**
+    editable: true
+    show_breadcrumb: true
 
 ############################
 ## LANGUAGE
@@ -26,7 +35,6 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
     - path: github.com/atomic-repos/wowchemy-widget-atomic-repos
     - path: github.com/atomic-repos/atomic-repo-hello-java
-
 ############################
 ## ADVANCED
 ############################
@@ -46,16 +54,6 @@ disableAliases: true
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
-markup:
-  defaultMarkdownHandler: goldmark
-  goldmark:
-    renderer:
-      unsafe: true
-  highlight:
-    codeFences: false
-  tableOfContents:
-    startLevel: 2
-    endLevel: 3
 imaging:
   resampleFilter: lanczos
   quality: 75
@@ -65,6 +63,8 @@ taxonomies:
   tag: tags
   category: categories
   author: authors
+markup:
+  _merge: deep
 related:
   threshold: 80
   includeNewer: true
@@ -74,12 +74,7 @@ related:
       weight: 100
     - name: categories
       weight: 70
-
-############################
-## SECURITY
-############################
 security:
-  funcs:
-    getenv:
-    - ^HUGO_
-    - WC_POST_CSS
+  _merge: deep
+sitemap:
+  _merge: deep
