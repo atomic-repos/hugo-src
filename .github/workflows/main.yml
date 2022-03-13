@@ -27,6 +27,22 @@ jobs:
     - name: Hugo Build 
       uses: mstine/hugo-gh-action@v1.5
 
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.94.2'
+        extended: true
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+
+    - run: gem install asciidoctor
+
+    - name: Run Hugo
+      run: |
+        alias asciidoctor="asciidoctor --attribute=experimental=true --attribute=icons=font"
+        hugo --minify
+
     - name: GitHub Sites Publish
       uses: peaceiris/actions-gh-pages@v3
       with:

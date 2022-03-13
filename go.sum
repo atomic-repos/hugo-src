@@ -1,3 +1,11 @@
+github.com/atomic-repos/atomic-repos-hello-world-java v0.0.0-20220313190819-56c2a4abcf80 h1:X/h7My1qxz5JRfKiT78pz9tmzHQAMqY30M0m2II3lFg=
+github.com/atomic-repos/atomic-repos-hello-world-java v0.0.0-20220313190819-56c2a4abcf80/go.mod h1:IcFEqDF4Rri0m64vLFo1ibsZlUnEoLSLFZa/Db7QoS4=
+github.com/atomic-repos/atomic-repos-hello-world-rust v0.0.0-20220313192132-8ca77fe516e2 h1:l+HrLhGPBXUK099QfNbcRc0L0TdKthJXbRNIhz1gjAo=
+github.com/atomic-repos/atomic-repos-hello-world-rust v0.0.0-20220313192132-8ca77fe516e2/go.mod h1:QKXTIkDCTKbUknXzZXNoYdG4QeI1hNz4CpCdYKFabks=
+github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220313140310-f5470789fd83 h1:9Si/PDL/yxha45ARrU4Fbpkjzn6mdGKgzSKbBkpv6Xo=
+github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220313140310-f5470789fd83/go.mod h1:XNIVAPbfSLmVY9eCeSGrP4LOMyhoMDHowwdSUvF8dgM=
+github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220313193935-d236908e8d64 h1:cBp4dDf6yS6FrFBimTWZ6KoGQ0PfgWjaFFQvMIAVmdw=
+github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220313193935-d236908e8d64/go.mod h1:XNIVAPbfSLmVY9eCeSGrP4LOMyhoMDHowwdSUvF8dgM=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220313124820-c0d0690a83dc h1:8Bqeu20xj2mQ3TYzMBt+nwvbm4XN0lupQG6ChhM1AOM=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220313124820-c0d0690a83dc/go.mod h1:Sp/AKo+2HAPi/IPHp1MEdKPmee+mzO5+efUBUPLPqPE=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220313124820-c0d0690a83dc h1:k6Vy9lApTDs/3b3HO1yv0tiUXuVIkkHU0CAK+AYZqZs=
