@@ -2,12 +2,16 @@ module github.com/atomic-repos/hugo-src
 
 go 1.14
 
-replace github.com/atomic-repos/wowchemy-widget-atomic-repos => ../wowchemy-widget-atomic-repos
-replace github.com/atomic-repos/atomic-repo-hello-java => ../atomic-repo-hello-java
+// replace github.com/atomic-repos/wowchemy-widget-atomic-repos => ../wowchemy-widget-atomic-repos
+
+// replace github.com/atomic-repos/atomic-repos-hello-world-java => ../atomic-repos-hello-world-java
+
+// replace github.com/atomic-repos/atomic-repos-hello-world-rust => ../atomic-repos-hello-world-rust
 
 require (
-	github.com/atomic-repos/atomic-repo-hello-java v0.0.0-20220308002726-c052ba81363d // indirect
-	github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220307224628-47a3baa2ef9f // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220307125908-9ad66cdfc825 // indirect
-	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220307125908-9ad66cdfc825 // indirect
+	github.com/atomic-repos/atomic-repos-hello-world-java v0.0.0-20220313190819-56c2a4abcf80 // indirect
+	github.com/atomic-repos/atomic-repos-hello-world-rust v0.0.0-20220313192132-8ca77fe516e2 // indirect
+	github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220313140310-f5470789fd83 // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220313124820-c0d0690a83dc // indirect
+	github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5 v5.0.0-20220313124820-c0d0690a83dc // indirect
 )

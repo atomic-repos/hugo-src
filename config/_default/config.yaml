@@ -34,7 +34,8 @@ module:
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5
     - path: github.com/wowchemy/wowchemy-hugo-modules/wowchemy/v5
     - path: github.com/atomic-repos/wowchemy-widget-atomic-repos
-    - path: github.com/atomic-repos/atomic-repo-hello-java
+    - path: github.com/atomic-repos/atomic-repos-hello-world-java
+    - path: github.com/atomic-repos/atomic-repos-hello-world-rust
 ############################
 ## ADVANCED
 ############################
