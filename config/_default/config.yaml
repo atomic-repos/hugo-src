@@ -38,6 +38,7 @@ module:
     - path: github.com/atomic-repos/atomic-repos-hello-world-rust
     - path: github.com/atomic-repos/atomic-repos-hello-world-go
     - path: github.com/atomic-repos/atomic-repos-hello-world-kotlin
+    - path: github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin
 
 ############################
 ## ADVANCED

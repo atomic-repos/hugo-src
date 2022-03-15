@@ -6,6 +6,10 @@ github.com/atomic-repos/atomic-repos-hello-world-kotlin v0.0.0-20220314221601-f8
 github.com/atomic-repos/atomic-repos-hello-world-kotlin v0.0.0-20220314221601-f8fae4f1eabf/go.mod h1:2eGrkM1PJTflQpjZpr//CYkgTUW9mVEwaUTcWQaV61M=
 github.com/atomic-repos/atomic-repos-hello-world-rust v0.0.0-20220313234042-2b8688be138c h1:X33xXqXqLYMVoimPugY4epXmAEX5O/bk5m/s+OVPzk0=
 github.com/atomic-repos/atomic-repos-hello-world-rust v0.0.0-20220313234042-2b8688be138c/go.mod h1:QKXTIkDCTKbUknXzZXNoYdG4QeI1hNz4CpCdYKFabks=
+github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin v0.0.0-20220315011238-f80361d95778 h1:1PvZHiRg+UwfHsbI4ASo/dz+G6rsch5YEml/gewj0hE=
+github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin v0.0.0-20220315011238-f80361d95778/go.mod h1:q7nptSOKO5vzkr7du/YywZ9ZMhljXKQ7K8ZvxuzdUwQ=
+github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin v0.0.0-20220315012134-814cd7ffb5bd h1:7kub5v1loOd7JsT4sA3Onp4DuA64g0CuEwdGEHDCrW0=
+github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin v0.0.0-20220315012134-814cd7ffb5bd/go.mod h1:q7nptSOKO5vzkr7du/YywZ9ZMhljXKQ7K8ZvxuzdUwQ=
 github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220314221404-bca2921ac675 h1:bOngClbobDM3WbxNg7h2cTPLXRp1+2/daUsqpu0Db10=
 github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220314221404-bca2921ac675/go.mod h1:XNIVAPbfSLmVY9eCeSGrP4LOMyhoMDHowwdSUvF8dgM=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220313124820-c0d0690a83dc h1:8Bqeu20xj2mQ3TYzMBt+nwvbm4XN0lupQG6ChhM1AOM=
