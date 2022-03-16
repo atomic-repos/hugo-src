@@ -40,6 +40,7 @@ module:
     - path: github.com/atomic-repos/atomic-repos-hello-world-kotlin
     - path: github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin
     - path: github.com/atomic-repos/atomic-repos-project-euler-1-kotlin
+    - path: github.com/atomic-repos/atomic-repos-project-euler-2-kotlin
 
 ############################
 ## ADVANCED

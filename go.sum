@@ -8,8 +8,10 @@ github.com/atomic-repos/atomic-repos-hello-world-rust v0.0.0-20220313234042-2b86
 github.com/atomic-repos/atomic-repos-hello-world-rust v0.0.0-20220313234042-2b8688be138c/go.mod h1:QKXTIkDCTKbUknXzZXNoYdG4QeI1hNz4CpCdYKFabks=
 github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin v0.0.0-20220315012134-814cd7ffb5bd h1:7kub5v1loOd7JsT4sA3Onp4DuA64g0CuEwdGEHDCrW0=
 github.com/atomic-repos/atomic-repos-map-filter-reduce-kotlin v0.0.0-20220315012134-814cd7ffb5bd/go.mod h1:q7nptSOKO5vzkr7du/YywZ9ZMhljXKQ7K8ZvxuzdUwQ=
-github.com/atomic-repos/atomic-repos-project-euler-1-kotlin v0.0.0-20220316003527-49b6a89bb93f h1:ZhKG84Dy3ydoKK6ezs54L7FdhUIu/AHJNNV/ImxLrx4=
-github.com/atomic-repos/atomic-repos-project-euler-1-kotlin v0.0.0-20220316003527-49b6a89bb93f/go.mod h1:VeHNbasV5m9/S/Udb41/6Ibz6dGEnSfvFciKpCzAiMw=
+github.com/atomic-repos/atomic-repos-project-euler-1-kotlin v0.0.0-20220316010407-fbef626a3153 h1:Kr5OM6k+L6NeF1wIxu17AoRfFTn6/Lot7P6FZKtKm60=
+github.com/atomic-repos/atomic-repos-project-euler-1-kotlin v0.0.0-20220316010407-fbef626a3153/go.mod h1:VeHNbasV5m9/S/Udb41/6Ibz6dGEnSfvFciKpCzAiMw=
+github.com/atomic-repos/atomic-repos-project-euler-2-kotlin v0.0.0-20220316220825-24815d5caee1 h1:S5BhJw0izpI3rwvCvSTo3e+98blvPpv14VUEDeHY6bg=
+github.com/atomic-repos/atomic-repos-project-euler-2-kotlin v0.0.0-20220316220825-24815d5caee1/go.mod h1:q7pXyccZW4QtAJcwcV9ICjIxDPwRyuGvfgNwwFwJQ00=
 github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220314221404-bca2921ac675 h1:bOngClbobDM3WbxNg7h2cTPLXRp1+2/daUsqpu0Db10=
 github.com/atomic-repos/wowchemy-widget-atomic-repos v0.0.0-20220314221404-bca2921ac675/go.mod h1:XNIVAPbfSLmVY9eCeSGrP4LOMyhoMDHowwdSUvF8dgM=
 github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms/v5 v5.0.0-20220313124820-c0d0690a83dc h1:8Bqeu20xj2mQ3TYzMBt+nwvbm4XN0lupQG6ChhM1AOM=
